@@ -12,7 +12,7 @@
 
 <p align="center">
      <a href="https://guedescss.github.io/convert-coins/">📱 Visit this Project</a>
- <blockquote class="imgur-embed-pub" lang="en" data-id="BShv3Qf"><a href="https://imgur.com/BShv3Qf">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+ 
 </p>
 
 <h2 id="layout">🎨 Layout</h2>
